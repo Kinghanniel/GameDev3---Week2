@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;  //DoTween library
 
-namespace GameDevWithHanniel.Guns
+namespace GameDevWithMarco.Guns
 {
 
     public class Guns_Rotator : MonoBehaviour

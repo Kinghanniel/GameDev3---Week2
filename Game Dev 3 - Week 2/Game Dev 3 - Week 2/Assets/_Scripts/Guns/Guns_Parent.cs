@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 
-namespace GameDevWithHanniel.Guns
+namespace GameDevWithMarco.Guns
 {
 
     public abstract class Guns_Parent : MonoBehaviour
